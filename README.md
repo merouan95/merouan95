@@ -111,6 +111,48 @@ I like turning complex product problems into clear, performant and well-tested i
 
 ---
 
+### GitHub activity
+
+#### Streak Stats
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=merouan95&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=merouan95&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=merouan95&theme=default&hide_border=true"
+      alt="Merouan's GitHub streak stats"
+    />
+  </picture>
+</p>
+
+#### Most used languages
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=merouan95&layout=compact&hide_border=true&theme=github_dark_dimmed"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=merouan95&layout=compact&hide_border=true&theme=vue"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=merouan95&layout=compact&hide_border=true&theme=vue"
+      alt="Merouan's most used programming languages"
+    />
+  </picture>
+</p>
+
+---
+
 ### What I enjoy working on
 
 - Building mobile apps that feel smooth, reliable and useful.
@@ -118,9 +160,3 @@ I like turning complex product problems into clear, performant and well-tested i
 - Improving developer experience through clean architecture, tests and CI/CD.
 - Turning product complexity into simple, usable interfaces.
 - Learning by building — especially around mobile, cloud and AI.
-
----
-
-<p align="center">
-  <em>“Do or do not, there is no try.”</em>
-</p>
