@@ -38,13 +38,11 @@ I'm a JavaScript developer focused on building clean, useful and maintainable pr
 I like turning complex product problems into clear, performant and well-tested interfaces, while connecting business needs, user experience and technical quality.
 
 - Mobile-first mindset with **React Native**, **Expo**, store delivery, subscriptions, push notifications and deep linking.
-- Strong front-end experience with **React**, **TypeScript**, **Nx monorepos**, design systems and testing.
+- Strong front-end experience with **React**, **TypeScript**, **Bootstrap**, **Tailwind CSS**, **Redux**, **Zustand**, **Apollo Client**, **Nx monorepos**, design systems and testing.
 - Full-stack JavaScript experience with **Node.js**, **Express**, **Firebase**, **PostgreSQL** and **MongoDB**.
 - Experience in demanding environments including **banking**, **healthtech**, **energy** and **internal tools**.
 - I care about **clean code**, **testing**, **developer experience**, accessibility and long-term maintainability.
 - Open to opportunities around **React Native**, **React**, **Full Stack JavaScript** and product-oriented engineering.
-
-> Some of my professional work and personal product code is private, so this profile focuses on public learning, technical consistency and engineering interests.
 
 ---
 
@@ -68,7 +66,11 @@ I like turning complex product problems into clear, performant and well-tested i
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack" />
   <img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" alt="Nx" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white" alt="Apollo Client" />
 </p>
 
 #### Backend & cloud
@@ -77,7 +79,6 @@ I like turning complex product problems into clear, performant and well-tested i
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111" alt="Firebase" />
-  <img src="https://img.shields.io/badge/AWS_Cognito-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cognito" />
 </p>
 
 #### Databases
@@ -100,41 +101,13 @@ I like turning complex product problems into clear, performant and well-tested i
 
 ---
 
-### GitHub rhythm
+### Certifications
 
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=merouan95&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark_dimmed"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=merouan95&show_icons=true&hide_border=true&rank_icon=github&theme=vue"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=merouan95&show_icons=true&hide_border=true&rank_icon=github&theme=vue"
-      alt="Merouan's GitHub stats"
-    />
-  </picture>
+<p>
+  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
 </p>
 
-<p align="center">
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=merouan95&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com?user=merouan95&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://streak-stats.demolab.com?user=merouan95&theme=default&hide_border=true"
-      alt="Merouan's GitHub streak"
-    />
-  </picture>
-</p>
+- **AWS Certified Cloud Practitioner** — cloud fundamentals, AWS core services, security, billing and cloud best practices.
 
 ---
 
